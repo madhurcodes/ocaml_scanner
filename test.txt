@@ -1,1 +1,12 @@
-I am 123123+21324 -123123 div 233123 mmmnerd34 * 32432
+Integer constants, which have an optional sign, followed by at least one digit, without useless leading zeroes.
+Unary arithmetic operations: abs,
+binary operations: + (addition), - (subtraction), * (multiplication), div, mod, ^ (exponentiation)
+Parentheses: (, )
+Boolean constants: T and F
+Unary boolean operation: not
+binary boolean operations:  /\ (and), \/ (or)
+Comparison operators: = (equal) , > (greater than), < (less than) , >= (greater or equal), <= (less or equal)
+A conditional operator consisting of three tokens: if then else
+Identifiers , which are alphanumeric strings beginning with lower-case letter.
+A definition construct: def
+Delimiter to terminate the expression: ;
